@@ -1,5 +1,5 @@
 import { Suspense } from "react"
-import ProductClient from "./product-client"
+import ProductClient from "./products-client"
 
 export default function ProductPage() {
   return (
